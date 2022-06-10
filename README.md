@@ -42,11 +42,12 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 
 #### Go queues
 
-- [Tasqueue](https://github.com/kalbhor/Tasqueue) - A task queue service backed by Redis or NATS.
+- [Tasqueue](https://github.com/kalbhor/Tasqueue) - A task queue service backed by Redis or NATS.  It supports cron, but not delayed jobs.
+- [Asynq](https://github.com/hibiken/asynq) - A task queue service backed by Redis.
 
 #### Ruby queues
 
-- [Sidekiq](https://github.com/mperham/sidekiq) - A very common background task runner for Ruby, backed by Redis.  It supports cron, but not delayed jobs.
+- [Sidekiq](https://github.com/mperham/sidekiq) - A very common background task runner for Ruby, backed by Redis.
 
 #### JavaScript, TypeScript, and NodeJS queues
 
