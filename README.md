@@ -40,6 +40,10 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 - [Celery](https://github.com/celery/celery), a commonly used distributed task queue written in Python
 - [RQ](https://github.com/rq/rq), a simple task queue for Python backed by Redis
 
+#### Go queues
+
+- [Tasqueue](https://github.com/kalbhor/Tasqueue) - A task queue service backed by Redis or NATS.
+
 #### Ruby queues
 
 - [Sidekiq](https://github.com/mperham/sidekiq) - A very common background task runner for Ruby, backed by Redis
