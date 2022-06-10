@@ -46,7 +46,7 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 
 #### Ruby queues
 
-- [Sidekiq](https://github.com/mperham/sidekiq) - A very common background task runner for Ruby, backed by Redis
+- [Sidekiq](https://github.com/mperham/sidekiq) - A very common background task runner for Ruby, backed by Redis.  It supports cron, but not delayed jobs.
 
 #### JavaScript, TypeScript, and NodeJS queues
 
