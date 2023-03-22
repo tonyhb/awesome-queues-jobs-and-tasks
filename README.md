@@ -32,6 +32,7 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 - [SQS](https://aws.amazon.com/sqs/) - A cloud message queue from AWS.  Supports elastic scale, and delaying jobs up to 15m ahead of time.
 - [Inngest](https://github.com/inngest/inngest-cli) - An event-driven queue, running serverless functions in any language
 - [Faktory](https://github.com/contribsys/faktory) - A self-hosted distributed task queue written in Go, with SDKs available for many languages
+- [Temporal](https://temporal.io/) - A durable execution system: reliable, automatic queueing that handles high scale.
 
 ### Language-specific queues
 
