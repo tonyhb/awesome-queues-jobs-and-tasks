@@ -53,3 +53,4 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 #### JavaScript, TypeScript, and NodeJS queues
 
 - [BullMQ](https://github.com/taskforcesh/bullmq) - A message queue for NodeJS backed by redis
+  - [@piperadar/bullmq](https://github.com/pipe-radar/sdk-bullmq) - Failure grouping, latency tracking, and alerts for BullMQ workers. Hooks QueueEvents in one line; MIT-licensed; job payloads never leave the process.
