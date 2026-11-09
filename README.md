@@ -53,3 +53,4 @@ Queues allow you to create reliable distributed background tasks - logic that ru
 #### JavaScript, TypeScript, and NodeJS queues
 
 - [BullMQ](https://github.com/taskforcesh/bullmq) - A message queue for NodeJS backed by redis
+- [TurboPulse](https://github.com/Saiop68/turbopulse) - High-performance native Rust background queue and rate limiter for Node.js with embedded in-memory and Redis cluster support.
